@@ -1,0 +1,29 @@
+.input-label {
+  text-align: left;
+  padding-top: 20px;
+  color: black;
+}
+
+.text-left-align {
+  text-align: left;
+  color: black;
+}
+
+#txtContactAddress {
+  min-width: 380px;
+}
+
+#pieChart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70%;
+}
+
+grid {
+  max-width: 50% !important;
+}
+
+.dataGrid {
+  max-width: 80% !important;
+}
