@@ -24,3 +24,4 @@ dist-ssr
 *.sw?
 /.vs/Frontend/FileContentIndex/70c22dee-dcc1-4b0d-80c3-51b3a41ca94c.vsidx
 *.vsidx
+/.vs/slnx.sqlite
